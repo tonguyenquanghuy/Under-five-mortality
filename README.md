@@ -19,3 +19,8 @@ We produced the report through the use of dashboards on Tableau. All the figures
 - Under-five children endure **inequality in survival chances** depending on where they live, their socio-economic background, and whether they live in a fragile and conflict-affected seeting.
 - **Sub-Saharan Africa** bears the greatest burden of under-five deaths worldwide, followed by **Southern Asia**.
 - More under-five deaths could have been prevented by effective yet often low-cost **necessary interventions**.
+
+## What action should be taken next?
+- Continue to **monitor and collect data** from every corner of the world so that current status, future trends or possible challenges can be identified.
+- **Investments** at local, subnational, and national level must be made to ensure proven interventions are available and accessible in every community.
+- **Global action** as well as **concerted efforts** is needed to ensure progress.
